@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Animesh Kakoty</h1>
 <h3 align="center">Guy from Physics background who wants to code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kakotyanimesh" alt="kakotyanimesh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@_animeshkakoty" target="blank"><img src="https://img.shields.io/twitter/follow/@_animeshkakoty?logo=twitter&style=for-the-badge" alt="@_animeshkakoty" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_animeshkakoty" target="blank"><img src="https://img.shields.io/twitter/follow/_animeshkakoty?logo=twitter&style=for-the-badge" alt="_animeshkakoty" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -17,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@_animeshkakoty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_animeshkakoty" height="30" width="40" /></a>
+<a href="https://twitter.com/_animeshkakoty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_animeshkakoty" height="30" width="40" /></a>
+<a href="https://instagram.com/_animeshkakoty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_animeshkakoty" height="30" width="40" /></a>
 <a href="https://hashnode.com/@animesh33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@animesh33" height="30" width="40" /></a>
 </p>
 

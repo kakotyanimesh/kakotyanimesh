@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📝 I regularly write articles on [https://animeshkakoty.hashnode.dev/](https://animeshkakoty.hashnode.dev/)
+- 📝 I write articles on [https://animeshkakoty.hashnode.dev/](https://animeshkakoty.hashnode.dev/)
 
 - 💬 Ask me about **Javascript, react**
 

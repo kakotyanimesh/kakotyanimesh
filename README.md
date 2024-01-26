@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📝 I write articles on [https://animeshkakoty.hashnode.dev/](https://animeshkakoty.hashnode.dev/)
+- 📝 I regularly write articles on [https://animeshkakoty.hashnode.dev/](https://animeshkakoty.hashnode.dev/)
 
 - 💬 Ask me about **Javascript, react**
 
@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kakotyanimesh&show_icons=true&locale=en&layout=compact" alt="kakotyanimesh" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kakotyanimesh"/></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kakotyanimesh&" alt="kakotyanimesh" /></p>

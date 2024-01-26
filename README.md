@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kakotyanimesh&show_icons=true&locale=en&layout=compact" alt="kakotyanimesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kakotyanimesh&" alt="kakotyanimesh" /></p>
+<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=kakotyanimesh)](https://git.io/streak-stats)</p>

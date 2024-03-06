@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Kakoty</h1>
-<h3 align="center">Guy from Physics background who wants to code</h3>
+<h3 align="center">Guy from Non-Tech background who wants to code</h3>
 
 <p align="left"> <a href="https://twitter.com/_animeshkakoty" target="blank"><img src="https://img.shields.io/twitter/follow/_animeshkakoty?logo=twitter&style=for-the-badge" alt="_animeshkakoty" /></a> </p>
 

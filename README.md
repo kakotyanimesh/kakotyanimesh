@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_animeshkakoty" target="blank"><img src="https://img.shields.io/twitter/follow/_animeshkakoty?logo=twitter&style=for-the-badge" alt="_animeshkakoty" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **javascript**
 
 - 📝 I regularly write articles on [https://animeshkakoty.hashnode.dev/](https://animeshkakoty.hashnode.dev/)
 

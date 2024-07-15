@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 📝 I regularly write articles on [https://animeshkakoty.hashnode.dev/](https://animeshkakoty.hashnode.dev/)
+- 📝 I  write articles on [https://animeshkakoty.hashnode.dev/](https://animeshkakoty.hashnode.dev/)
 
-- 💬 Ask me about **Javascript, react**
+- 💬 Ask me about **Javascript, dsa**
 
 - 📫 How to reach me **animeshkakoty33@gmail.com**
 
-- ⚡ Fun fact **I am serious**
+- ⚡ Fun fact **I am dumb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

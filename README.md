@@ -7,7 +7,7 @@
 
 - 📝 I  write articles on [https://animeshkakoty.hashnode.dev/](https://animeshkakoty.hashnode.dev/)
 
-- 💬 Ask me about **Javascript, dsa**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **animeshkakoty33@gmail.com**
 

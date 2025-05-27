@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/210f9cc0-4efa-401c-b480-ff18a48d0e9d.svg)](https://wakatime.com/@210f9cc0-4efa-401c-b480-ff18a48d0e9d)
 <h1 align="center">Hi 👋, I'm Animesh kakoty</h1>
 <h3 align="center">Guy from Non-Tech background who wants to code</h3>
 
